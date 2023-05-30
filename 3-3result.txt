@@ -1,0 +1,104 @@
+Seed? = 1
+A monster appears!
+
+Your ENERGY:300 POISON:0
+Monster ENERGY:141
+Command? -> 1:Attack 2:Heal 3:Cure Poison
+1
+You attacked! A monster received 27 damage!
+A monster attacked! You received 30 damage!
+You were affected by the poison!
+Your energy was decreased 5 percent by the poison!
+
+Your ENERGY:257 POISON:1
+Monster ENERGY:114
+Command? -> 1:Attack 2:Heal 3:Cure Poison
+4
+MISS
+A monster attacked! You received 32 damage!
+Your energy was decreased 5 percent by the poison!
+
+Your ENERGY:214 POISON:1
+Monster ENERGY:114
+Command? -> 1:Attack 2:Heal 3:Cure Poison
+4
+MISS
+A monster attacked! You received 31 damage!
+Your energy was decreased 5 percent by the poison!
+
+Your ENERGY:174 POISON:1
+Monster ENERGY:114
+Command? -> 1:Attack 2:Heal 3:Cure Poison
+4
+MISS
+A monster attacked! You received 49 damage!
+Your energy was decreased 5 percent by the poison!
+
+Your ENERGY:119 POISON:1
+Monster ENERGY:114
+Command? -> 1:Attack 2:Heal 3:Cure Poison
+1
+You attacked! A monster received 12 damage!
+A monster attacked! You received 35 damage!
+Your energy was decreased 5 percent by the poison!
+
+Your ENERGY:80 POISON:1
+Monster ENERGY:102
+Command? -> 1:Attack 2:Heal 3:Cure Poison
+1
+You attacked! A monster received 38 damage!
+A monster attacked! You received 16 damage!
+Your energy was decreased 5 percent by the poison!
+
+Your ENERGY:61 POISON:1
+Monster ENERGY:64
+Command? -> 1:Attack 2:Heal 3:Cure Poison
+1
+You attacked! A monster received 29 damage!
+A monster attacked! You received 44 damage!
+Your energy was decreased 5 percent by the poison!
+
+Your ENERGY:17 POISON:1
+Monster ENERGY:35
+Command? -> 1:Attack 2:Heal 3:Cure Poison
+1
+You attacked! A monster received 27 damage!
+A monster attacked! You received 49 damage!
+GAME OVER.
+続行するには何かキーを押してください . . .
+
+Seed? = 1
+A monster appears!
+
+Your ENERGY:300 POISON:0
+Monster ENERGY:141
+Command? -> 1:Attack 2:Heal 3:Cure Poison
+1
+You attacked! A monster received 27 damage!
+A monster attacked! You received 30 damage!
+You were affected by the poison!
+Your energy was decreased 5 percent by the poison!
+
+Your ENERGY:257 POISON:1
+Monster ENERGY:114
+Command? -> 1:Attack 2:Heal 3:Cure Poison
+1
+You attacked! A monster received 32 damage!
+A monster attacked! You received 31 damage!
+Your energy was decreased 5 percent by the poison!
+
+Your ENERGY:215 POISON:1
+Monster ENERGY:82
+Command? -> 1:Attack 2:Heal 3:Cure Poison
+1
+You attacked! A monster received 49 damage!
+A monster attacked! You received 12 damage!
+Your energy was decreased 5 percent by the poison!
+
+Your ENERGY:193 POISON:1
+Monster ENERGY:33
+Command? -> 1:Attack 2:Heal 3:Cure Poison
+1
+You attacked! A monster received 35 damage!
+GAME CLEAR.
+続行するには何かキーを押してください . . .

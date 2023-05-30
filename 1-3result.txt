@@ -1,0 +1,4 @@
+The minimum number is 7.
+The max number is 69.
+These number's sum is 330.
+続行するには何かキーを押してください . . .

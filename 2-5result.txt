@@ -1,0 +1,15 @@
+Seed? = 100
+Better luck
+続行するには何かキーを押してください . . .
+
+Seed? = 100000
+Better luck
+続行するには何かキーを押してください . . .
+
+Seed? = 17
+Excellent luck
+続行するには何かキーを押してください . . .
+
+Seed? = 19
+Worst luck
+続行するには何かキーを押してください . . .

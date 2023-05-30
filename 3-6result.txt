@@ -1,0 +1,7 @@
+Search gakuban?:2132772
+2132772 's heikin is 81.000000.
+続行するには何かキーを押してください . . .
+
+Search gakuban?:100
+Not found.
+続行するには何かキーを押してください . . .

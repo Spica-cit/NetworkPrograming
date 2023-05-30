@@ -1,0 +1,20 @@
+apple
+applen
+MISS. One more.
+apple
+apple
+OK.   
+banana
+naabaa
+MISS. One more.
+banana
+banana
+OK.
+orange
+orangen
+MISS. One more.
+orange
+orange
+OK.
+Finish. Congratulation.
+続行するには何かキーを押してください . . .
